@@ -1,6 +1,4 @@
-# prediction-diamond-prices
-
-Kaggle Competition - Diamond prices
+# Kaggle Competition - Diamond prices
 
 ### The goal of this competition is the prediction of the price of diamonds based on their characteristics (weight,color, quality of cut, etc.).
 
